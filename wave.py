@@ -8,11 +8,6 @@ you move to a new level, you are expected to make a new instance of the class.
 The subcontroller Wave manages the ship, the aliens and any laser bolts on
 screen. These are model objects.  Their classes are defined in models.py.
 
-Most of your work on this assignment will be in either this module or
-models.py. Whether a helper method belongs in this module or models.py is
-often a complicated issue.  If you do not know, ask on Piazza and we will
-answer.
-
 # Evelyn Si es828
 # 12/7/21
 """

@@ -5,23 +5,6 @@ This module contains the model classes for the Alien Invaders game. Anything
 that you interact with on the screen is model: the ship, the laser bolts, and
 the aliens.
 
-Just because something is a model does not mean there has to be a special
-class for it. Unless you need something special for your extra gameplay
-features, Ship and Aliens could just be an instance of GImage that you move
-across the screen. You only need a new class when you add extra features to
-an object. So technically Bolt, which has a velocity, is really the only model
-that needs to have its own class.
-
-With that said, we have included the subclasses for Ship and Aliens. That is
-because there are a lot of constants in consts.py for initializing the
-objects, and you might want to add a custom initializer.  With that said,
-feel free to keep the pass underneath the class definitions if you do not want
-to do that.
-
-You are free to add even more models to this module.  You may wish to do this
-when you add new features to your game, such as power-ups.  If you are unsure
-about whether to make a new class or not, please ask on Piazza.
-
 # Evelyn Si es828
 # 12/7/21
 """

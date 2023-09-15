@@ -2,10 +2,6 @@
 Primary module for Alien Invaders
 
 This module contains the main controller class for the Alien Invaders app.
-There is no need for any additional classes in this module.  If you need
-more classes, 99% of the time they belong in either the wave module or the
-models module. If you are unsure about where a new class should go, post a
-question on Piazza.
 
 # Evelyn Si es828
 # 12/7/21
